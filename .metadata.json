@@ -1,0 +1,10 @@
+[
+  {
+    "package": "myTAI",
+    "oncran": true
+  },
+  {
+    "package": "philentropy",
+    "oncran": true
+  }
+]
