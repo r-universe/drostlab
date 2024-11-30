@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "myTAI"]
-	path = myTAI
-	url = https://github.com/drostlab/mytai
 [submodule "philentropy"]
 	path = philentropy
 	url = https://github.com/drostlab/philentropy
